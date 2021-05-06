@@ -1,0 +1,11 @@
+D:\myCode\C#\millerRabin\bin\Debug\netcoreapp3.1\millerRabin.exe
+D:\myCode\C#\millerRabin\bin\Debug\netcoreapp3.1\millerRabin.deps.json
+D:\myCode\C#\millerRabin\bin\Debug\netcoreapp3.1\millerRabin.runtimeconfig.json
+D:\myCode\C#\millerRabin\bin\Debug\netcoreapp3.1\millerRabin.runtimeconfig.dev.json
+D:\myCode\C#\millerRabin\bin\Debug\netcoreapp3.1\millerRabin.dll
+D:\myCode\C#\millerRabin\bin\Debug\netcoreapp3.1\millerRabin.pdb
+D:\myCode\C#\millerRabin\obj\Debug\netcoreapp3.1\millerRabin.csprojAssemblyReference.cache
+D:\myCode\C#\millerRabin\obj\Debug\netcoreapp3.1\millerRabin.AssemblyInfoInputs.cache
+D:\myCode\C#\millerRabin\obj\Debug\netcoreapp3.1\millerRabin.AssemblyInfo.cs
+D:\myCode\C#\millerRabin\obj\Debug\netcoreapp3.1\millerRabin.dll
+D:\myCode\C#\millerRabin\obj\Debug\netcoreapp3.1\millerRabin.pdb

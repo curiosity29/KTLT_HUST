@@ -1,0 +1,11 @@
+D:\myCode\13.3diem\obj\Debug\netcoreapp3.1\13.3diem.csprojAssemblyReference.cache
+D:\myCode\13.3diem\obj\Debug\netcoreapp3.1\13.3diem.AssemblyInfoInputs.cache
+D:\myCode\13.3diem\obj\Debug\netcoreapp3.1\13.3diem.AssemblyInfo.cs
+D:\myCode\13.3diem\bin\Debug\netcoreapp3.1\13.3diem.exe
+D:\myCode\13.3diem\bin\Debug\netcoreapp3.1\13.3diem.deps.json
+D:\myCode\13.3diem\bin\Debug\netcoreapp3.1\13.3diem.runtimeconfig.json
+D:\myCode\13.3diem\bin\Debug\netcoreapp3.1\13.3diem.runtimeconfig.dev.json
+D:\myCode\13.3diem\bin\Debug\netcoreapp3.1\13.3diem.dll
+D:\myCode\13.3diem\bin\Debug\netcoreapp3.1\13.3diem.pdb
+D:\myCode\13.3diem\obj\Debug\netcoreapp3.1\13.3diem.dll
+D:\myCode\13.3diem\obj\Debug\netcoreapp3.1\13.3diem.pdb

@@ -1,0 +1,11 @@
+D:\myCode\8.amlich\obj\Debug\netcoreapp3.1\8.amlich.csprojAssemblyReference.cache
+D:\myCode\8.amlich\obj\Debug\netcoreapp3.1\8.amlich.AssemblyInfoInputs.cache
+D:\myCode\8.amlich\obj\Debug\netcoreapp3.1\8.amlich.AssemblyInfo.cs
+D:\myCode\8.amlich\bin\Debug\netcoreapp3.1\8.amlich.exe
+D:\myCode\8.amlich\bin\Debug\netcoreapp3.1\8.amlich.deps.json
+D:\myCode\8.amlich\bin\Debug\netcoreapp3.1\8.amlich.runtimeconfig.json
+D:\myCode\8.amlich\bin\Debug\netcoreapp3.1\8.amlich.runtimeconfig.dev.json
+D:\myCode\8.amlich\bin\Debug\netcoreapp3.1\8.amlich.dll
+D:\myCode\8.amlich\bin\Debug\netcoreapp3.1\8.amlich.pdb
+D:\myCode\8.amlich\obj\Debug\netcoreapp3.1\8.amlich.dll
+D:\myCode\8.amlich\obj\Debug\netcoreapp3.1\8.amlich.pdb

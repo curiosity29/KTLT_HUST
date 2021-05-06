@@ -1,0 +1,11 @@
+D:\myCode\C#\100pi\obj\Debug\netcoreapp3.1\100pi.csprojAssemblyReference.cache
+D:\myCode\C#\100pi\obj\Debug\netcoreapp3.1\100pi.AssemblyInfoInputs.cache
+D:\myCode\C#\100pi\obj\Debug\netcoreapp3.1\100pi.AssemblyInfo.cs
+D:\myCode\C#\100pi\bin\Debug\netcoreapp3.1\100pi.exe
+D:\myCode\C#\100pi\bin\Debug\netcoreapp3.1\100pi.deps.json
+D:\myCode\C#\100pi\bin\Debug\netcoreapp3.1\100pi.runtimeconfig.json
+D:\myCode\C#\100pi\bin\Debug\netcoreapp3.1\100pi.runtimeconfig.dev.json
+D:\myCode\C#\100pi\bin\Debug\netcoreapp3.1\100pi.dll
+D:\myCode\C#\100pi\bin\Debug\netcoreapp3.1\100pi.pdb
+D:\myCode\C#\100pi\obj\Debug\netcoreapp3.1\100pi.dll
+D:\myCode\C#\100pi\obj\Debug\netcoreapp3.1\100pi.pdb

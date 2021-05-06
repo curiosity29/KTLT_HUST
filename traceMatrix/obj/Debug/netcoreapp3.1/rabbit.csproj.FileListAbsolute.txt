@@ -1,0 +1,11 @@
+D:\myCode\test`\obj\Debug\netcoreapp3.1\rabbit.csprojAssemblyReference.cache
+D:\myCode\test`\obj\Debug\netcoreapp3.1\rabbit.AssemblyInfoInputs.cache
+D:\myCode\test`\obj\Debug\netcoreapp3.1\rabbit.AssemblyInfo.cs
+D:\myCode\test`\bin\Debug\netcoreapp3.1\rabbit.exe
+D:\myCode\test`\bin\Debug\netcoreapp3.1\rabbit.deps.json
+D:\myCode\test`\bin\Debug\netcoreapp3.1\rabbit.runtimeconfig.json
+D:\myCode\test`\bin\Debug\netcoreapp3.1\rabbit.runtimeconfig.dev.json
+D:\myCode\test`\bin\Debug\netcoreapp3.1\rabbit.dll
+D:\myCode\test`\bin\Debug\netcoreapp3.1\rabbit.pdb
+D:\myCode\test`\obj\Debug\netcoreapp3.1\rabbit.dll
+D:\myCode\test`\obj\Debug\netcoreapp3.1\rabbit.pdb

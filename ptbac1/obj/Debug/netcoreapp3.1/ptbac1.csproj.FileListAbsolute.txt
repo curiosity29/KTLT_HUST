@@ -1,0 +1,11 @@
+D:\myCode\ptbac1\obj\Debug\netcoreapp3.1\ptbac1.csprojAssemblyReference.cache
+D:\myCode\ptbac1\obj\Debug\netcoreapp3.1\ptbac1.AssemblyInfoInputs.cache
+D:\myCode\ptbac1\obj\Debug\netcoreapp3.1\ptbac1.AssemblyInfo.cs
+D:\myCode\ptbac1\bin\Debug\netcoreapp3.1\ptbac1.exe
+D:\myCode\ptbac1\bin\Debug\netcoreapp3.1\ptbac1.deps.json
+D:\myCode\ptbac1\bin\Debug\netcoreapp3.1\ptbac1.runtimeconfig.json
+D:\myCode\ptbac1\bin\Debug\netcoreapp3.1\ptbac1.runtimeconfig.dev.json
+D:\myCode\ptbac1\bin\Debug\netcoreapp3.1\ptbac1.dll
+D:\myCode\ptbac1\bin\Debug\netcoreapp3.1\ptbac1.pdb
+D:\myCode\ptbac1\obj\Debug\netcoreapp3.1\ptbac1.dll
+D:\myCode\ptbac1\obj\Debug\netcoreapp3.1\ptbac1.pdb

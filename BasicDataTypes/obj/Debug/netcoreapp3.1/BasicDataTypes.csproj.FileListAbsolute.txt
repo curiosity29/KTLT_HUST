@@ -1,0 +1,11 @@
+D:\myCode\BasicDataTypes\bin\Debug\netcoreapp3.1\BasicDataTypes.exe
+D:\myCode\BasicDataTypes\bin\Debug\netcoreapp3.1\BasicDataTypes.deps.json
+D:\myCode\BasicDataTypes\bin\Debug\netcoreapp3.1\BasicDataTypes.runtimeconfig.json
+D:\myCode\BasicDataTypes\bin\Debug\netcoreapp3.1\BasicDataTypes.runtimeconfig.dev.json
+D:\myCode\BasicDataTypes\bin\Debug\netcoreapp3.1\BasicDataTypes.dll
+D:\myCode\BasicDataTypes\bin\Debug\netcoreapp3.1\BasicDataTypes.pdb
+D:\myCode\BasicDataTypes\obj\Debug\netcoreapp3.1\BasicDataTypes.csprojAssemblyReference.cache
+D:\myCode\BasicDataTypes\obj\Debug\netcoreapp3.1\BasicDataTypes.AssemblyInfoInputs.cache
+D:\myCode\BasicDataTypes\obj\Debug\netcoreapp3.1\BasicDataTypes.AssemblyInfo.cs
+D:\myCode\BasicDataTypes\obj\Debug\netcoreapp3.1\BasicDataTypes.dll
+D:\myCode\BasicDataTypes\obj\Debug\netcoreapp3.1\BasicDataTypes.pdb

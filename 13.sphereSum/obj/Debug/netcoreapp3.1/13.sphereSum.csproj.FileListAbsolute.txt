@@ -1,0 +1,11 @@
+D:\myCode\13.sphereSum\bin\Debug\netcoreapp3.1\13.sphereSum.exe
+D:\myCode\13.sphereSum\bin\Debug\netcoreapp3.1\13.sphereSum.deps.json
+D:\myCode\13.sphereSum\bin\Debug\netcoreapp3.1\13.sphereSum.runtimeconfig.json
+D:\myCode\13.sphereSum\bin\Debug\netcoreapp3.1\13.sphereSum.runtimeconfig.dev.json
+D:\myCode\13.sphereSum\bin\Debug\netcoreapp3.1\13.sphereSum.dll
+D:\myCode\13.sphereSum\bin\Debug\netcoreapp3.1\13.sphereSum.pdb
+D:\myCode\13.sphereSum\obj\Debug\netcoreapp3.1\13.sphereSum.csprojAssemblyReference.cache
+D:\myCode\13.sphereSum\obj\Debug\netcoreapp3.1\13.sphereSum.AssemblyInfoInputs.cache
+D:\myCode\13.sphereSum\obj\Debug\netcoreapp3.1\13.sphereSum.AssemblyInfo.cs
+D:\myCode\13.sphereSum\obj\Debug\netcoreapp3.1\13.sphereSum.dll
+D:\myCode\13.sphereSum\obj\Debug\netcoreapp3.1\13.sphereSum.pdb

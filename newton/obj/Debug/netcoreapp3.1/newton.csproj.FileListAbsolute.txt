@@ -1,0 +1,11 @@
+D:\myCode\newton\bin\Debug\netcoreapp3.1\newton.exe
+D:\myCode\newton\bin\Debug\netcoreapp3.1\newton.deps.json
+D:\myCode\newton\bin\Debug\netcoreapp3.1\newton.runtimeconfig.json
+D:\myCode\newton\bin\Debug\netcoreapp3.1\newton.runtimeconfig.dev.json
+D:\myCode\newton\bin\Debug\netcoreapp3.1\newton.dll
+D:\myCode\newton\bin\Debug\netcoreapp3.1\newton.pdb
+D:\myCode\newton\obj\Debug\netcoreapp3.1\newton.csprojAssemblyReference.cache
+D:\myCode\newton\obj\Debug\netcoreapp3.1\newton.AssemblyInfoInputs.cache
+D:\myCode\newton\obj\Debug\netcoreapp3.1\newton.AssemblyInfo.cs
+D:\myCode\newton\obj\Debug\netcoreapp3.1\newton.dll
+D:\myCode\newton\obj\Debug\netcoreapp3.1\newton.pdb

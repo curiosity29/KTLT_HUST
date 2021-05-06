@@ -1,0 +1,11 @@
+D:\myCode\C#\dfs\bin\Debug\netcoreapp3.1\dfs.exe
+D:\myCode\C#\dfs\bin\Debug\netcoreapp3.1\dfs.deps.json
+D:\myCode\C#\dfs\bin\Debug\netcoreapp3.1\dfs.runtimeconfig.json
+D:\myCode\C#\dfs\bin\Debug\netcoreapp3.1\dfs.runtimeconfig.dev.json
+D:\myCode\C#\dfs\bin\Debug\netcoreapp3.1\dfs.dll
+D:\myCode\C#\dfs\bin\Debug\netcoreapp3.1\dfs.pdb
+D:\myCode\C#\dfs\obj\Debug\netcoreapp3.1\dfs.csprojAssemblyReference.cache
+D:\myCode\C#\dfs\obj\Debug\netcoreapp3.1\dfs.AssemblyInfoInputs.cache
+D:\myCode\C#\dfs\obj\Debug\netcoreapp3.1\dfs.AssemblyInfo.cs
+D:\myCode\C#\dfs\obj\Debug\netcoreapp3.1\dfs.dll
+D:\myCode\C#\dfs\obj\Debug\netcoreapp3.1\dfs.pdb
